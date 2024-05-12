@@ -1,0 +1,3 @@
+[submodule "themes/zhangbuda7788-blog"]
+	path = themes/zhangbuda7788-blog
+	url = git@github.com:janraasch/hugo-bearblog.git
