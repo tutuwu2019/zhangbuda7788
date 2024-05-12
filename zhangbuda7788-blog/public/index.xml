@@ -1,30 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<channel>
-<title>zhangbuda7788 blog on 张不大的博客</title>
-<link>https://tutuwu2019.github.io/</link>
-<description>Recent content in zhangbuda7788 blog on 张不大的博客</description>
-<generator>Hugo -- gohugo.io</generator>
-<language>en-US</language>
-<copyright>Copyright © 2024, zhangbdua.</copyright>
-<lastBuildDate>Sun, 12 May 2024 14:32:26 +0800</lastBuildDate><atom:link href="https://tutuwu2019.github.io/index.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>加密博客</title>
-<link>https://tutuwu2019.github.io/%E5%8A%A0%E5%AF%86%E5%8D%9A%E5%AE%A2/</link>
-<pubDate>Sun, 12 May 2024 14:32:26 +0800</pubDate>
-<guid>https://tutuwu2019.github.io/%E5%8A%A0%E5%AF%86%E5%8D%9A%E5%AE%A2/</guid>
-<description>This is a page about »加密博客«. 接下来的内容会被加密(猜猜什么被加密了哦) 文章的部分内容被密码保护：
---- DON'T MODIFY THIS LINE --- You cannot see me unless you&amp;rsquo;ve got the password! This is the content you want to encrypt!
+  <channel>
+    <title>zhangbuda7788 blog on 张不大的博客</title>
+    <link>https://tutuwu2019.github.io/</link>
+    <description>Recent content in zhangbuda7788 blog on 张不大的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2024, zhangbdua.</copyright>
+    <lastBuildDate>Sun, 12 May 2024 14:32:26 +0800</lastBuildDate><atom:link href="https://tutuwu2019.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>加密博客</title>
+      <link>https://tutuwu2019.github.io/%E5%8A%A0%E5%AF%86%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sun, 12 May 2024 14:32:26 +0800</pubDate>
+      
+      <guid>https://tutuwu2019.github.io/%E5%8A%A0%E5%AF%86%E5%8D%9A%E5%AE%A2/</guid>
+      <description>This is a page about »加密博客«. 接下来的内容会被加密(猜猜什么被加密了哦) 文章的部分内容被密码保护：
+--- DON&#39;T MODIFY THIS LINE --- You cannot see me unless you&amp;rsquo;ve got the password! This is the content you want to encrypt!
 明明就 啊哈哈哈，啥也没有嘛
 Do remember to close the hugo-encryptor shortcodes tag:
 else </description>
-</item>
-<item>
-<title>我讨厌蚊子</title>
-<link>https://tutuwu2019.github.io/%E6%88%91%E8%AE%A8%E5%8E%8C%E8%9A%8A%E5%AD%90/</link>
-<pubDate>Thu, 09 May 2024 17:55:24 +0800</pubDate>
-<guid>https://tutuwu2019.github.io/%E6%88%91%E8%AE%A8%E5%8E%8C%E8%9A%8A%E5%AD%90/</guid>
-<description>我讨厌蚊子 由来？
+    </item>
+    
+    <item>
+      <title>我讨厌蚊子</title>
+      <link>https://tutuwu2019.github.io/%E6%88%91%E8%AE%A8%E5%8E%8C%E8%9A%8A%E5%AD%90/</link>
+      <pubDate>Thu, 09 May 2024 17:55:24 +0800</pubDate>
+      
+      <guid>https://tutuwu2019.github.io/%E6%88%91%E8%AE%A8%E5%8E%8C%E8%9A%8A%E5%AD%90/</guid>
+      <description>我讨厌蚊子 由来？
 广州的蚊子特别多，尤其是阴雨天的时候，恰巧今年广州的雨下的特别多
 蚊子，好像也摸头了人类的习性
 它们总是喜欢单兵作战，出来觅食的时候还不会发出声音，可能进化的太厉害了吧
@@ -39,54 +42,64 @@ else </description>
 虫子虽然很弱小，但是从来没有真正被消灭过
 后面有激烈的战场画面，不感兴趣可划走（有点血腥！） 后面又有蚊子行动，而且他们好狡猾、贪婪（明明已经吸了很多血，还不走） (蚊子1号)
 (蚊子2号)</description>
-</item>
-<item>
-<title>锁</title>
-<link>https://tutuwu2019.github.io/%E9%94%81/</link>
-<pubDate>Thu, 09 May 2024 17:34:01 +0800</pubDate>
-<guid>https://tutuwu2019.github.io/%E9%94%81/</guid>
-<description>锁 都有哪些锁呢？
+    </item>
+    
+    <item>
+      <title>锁</title>
+      <link>https://tutuwu2019.github.io/%E9%94%81/</link>
+      <pubDate>Thu, 09 May 2024 17:34:01 +0800</pubDate>
+      
+      <guid>https://tutuwu2019.github.io/%E9%94%81/</guid>
+      <description>锁 都有哪些锁呢？
 乐观锁 悲观锁 共享锁 排他锁 行锁 表锁 死锁 自旋锁 &amp;hellip; 锁1 Mysql/InnoDB锁
 MySQL/InnoDB加锁 在数据库有高并发请求的时候，如何保证数据完整性？产生死锁问题如何排查以及解决？
 面试 面试题1 面试题2 面试3</description>
-</item>
-<item>
-<title>Go基本数据类型</title>
-<link>https://tutuwu2019.github.io/go%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</link>
-<pubDate>Thu, 09 May 2024 12:18:11 +0800</pubDate>
-<guid>https://tutuwu2019.github.io/go%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</guid>
-<description>go基本数据类型 编程有感 这是一篇由浅入深介绍go 数据类型的笔记(自用) 对于新手，最快进入学习状态的方式莫过于，看别人的写的博客或者视频了。当然高手写的博客或者视频那就更好了。 这是比较好的切入点，我也看了 go 的官方文档，感觉写的很浅 学技术，最重要的是学权威内容，这个东西不能出现二义性，可是网上（内网）的很多“博客”都是半吊子水，这对于思维不活泛的同学（不比如我，要多走很多弯路😩😩），后面深入的话还是要看源码的
+    </item>
+    
+    <item>
+      <title>Go基本数据类型</title>
+      <link>https://tutuwu2019.github.io/go%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</link>
+      <pubDate>Thu, 09 May 2024 12:18:11 +0800</pubDate>
+      
+      <guid>https://tutuwu2019.github.io/go%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</guid>
+      <description>go基本数据类型 编程有感 这是一篇由浅入深介绍go 数据类型的笔记(自用) 对于新手，最快进入学习状态的方式莫过于，看别人的写的博客或者视频了。当然高手写的博客或者视频那就更好了。 这是比较好的切入点，我也看了 go 的官方文档，感觉写的很浅 学技术，最重要的是学权威内容，这个东西不能出现二义性，可是网上（内网）的很多“博客”都是半吊子水，这对于思维不活泛的同学（不比如我，要多走很多弯路😩😩），后面深入的话还是要看源码的
 主要有以下内容，会由浅入深以及结合面试题总结（05-08）
 常见的数据数据类型（参考c/c++、python、js、java）int、string、struct、slice、map 关键字 new、make interface、闭包 关键字 reflect chan、defer、goroutine 抢占式调度? panic、recover GMP Go的内存管理(栈内存管理、) 常见的数据数据类型（参考c/c++、python、js）int、string、struct、slice、map 先添个小料，我问gpt go1.18中的切片扩容规则的时候，它直接讲 切片扩容阈值threshold 是1024，但是在go1.18以后的切片扩容阈值改成了256，而且扩容规则也调整了一些
 int string struct slice 切片 本质是一个数据结构，包含指向底层数组的首地址，切片大小以及切片容量 入门讲解
 // 写几种 定义 方式 var tmp01 []int = make([]int, 2, 5) tmp01 = append(tmp01, 1, 2, 3, 4, 5) tmp02 := []int{1, 2, 3, 4, 5} tmp03 := new([]int) *tmp03 = append(*tmp03, 1, 2, 3, 4, 5) 注意采用的是左闭右开 demo</description>
-</item>
-<item>
-<title>面试基础算法c++_go</title>
-<link>https://tutuwu2019.github.io/%E9%9D%A2%E8%AF%95%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95c-_go/</link>
-<pubDate>Thu, 09 May 2024 02:58:29 +0800</pubDate>
-<guid>https://tutuwu2019.github.io/%E9%9D%A2%E8%AF%95%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95c-_go/</guid>
-<description>列举一些算法 杂序（c++和go 实现） 链表反转 链表反转的核心思想就是每次遍历 head 链表的时候把当前节点充当newHead 的头节点，在把上轮的newHead 接到 newHead 的屁股上
+    </item>
+    
+    <item>
+      <title>面试基础算法c&#43;&#43;_go</title>
+      <link>https://tutuwu2019.github.io/%E9%9D%A2%E8%AF%95%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95c-_go/</link>
+      <pubDate>Thu, 09 May 2024 02:58:29 +0800</pubDate>
+      
+      <guid>https://tutuwu2019.github.io/%E9%9D%A2%E8%AF%95%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95c-_go/</guid>
+      <description>列举一些算法 杂序（c++和go 实现） 链表反转 链表反转的核心思想就是每次遍历 head 链表的时候把当前节点充当newHead 的头节点，在把上轮的newHead 接到 newHead 的屁股上
 c++ struct ListNode{ int val; struct ListNode* next; ListNode(int x):val(x),next(nullptr){}; }; class solution{ ListNode* ReverseList(ListNode* head){ ListNode* nhead; while(head != nullptr){ ListNode* tmp; tmp = nhead; nhead = head; head = head-&amp;gt;next; nhead-&amp;gt;next = tmp; } return nHead; } } go package main import( &amp;#34;fmt&amp;#34; ) type ListNode struct{ Val int Next *ListNode } func ReverseList(head *ListNode)*ListNode{ var newHead *ListNode = nil for head !</description>
-</item>
-<item>
-<title>五一plog</title>
-<link>https://tutuwu2019.github.io/%E4%BA%94%E4%B8%80plog/</link>
-<pubDate>Wed, 08 May 2024 16:30:54 +0800</pubDate>
-<guid>https://tutuwu2019.github.io/%E4%BA%94%E4%B8%80plog/</guid>
-<description>五一劳动节快乐 五一前的周末 桂林 桂林 (很惬意，放轻松) (桂林米粉)
+    </item>
+    
+    <item>
+      <title>五一plog</title>
+      <link>https://tutuwu2019.github.io/%E4%BA%94%E4%B8%80plog/</link>
+      <pubDate>Wed, 08 May 2024 16:30:54 +0800</pubDate>
+      
+      <guid>https://tutuwu2019.github.io/%E4%BA%94%E4%B8%80plog/</guid>
+      <description>五一劳动节快乐 五一前的周末 桂林 桂林 (很惬意，放轻松) (桂林米粉)
 广州 北京路 (北京路)
 圣心大教堂 (圣心大教堂)
 烤乳鸽 (现在写博客的时候还意犹未尽，皮脆、肉香！比北京烤鸭还好吃！)
 (再来一张特写吧)
 总结 我比较喜欢用 引用 大概不会用 md 设计 五一，体验了很多以前看起来很远的东西，总的回忆是美好的 但是，要说但是了！就像哲学里头讲的那样，前面的路是曲折盘旋，还是要更努力一些，才不会被这个世界嫌弃！</description>
-</item>
-<item>
-<title>高性能服务器</title>
-<link>https://tutuwu2019.github.io/%E9%AB%98%E6%80%A7%E8%83%BD%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
-<pubDate>Wed, 08 May 2024 16:10:36 +0800</pubDate>
-<guid>https://tutuwu2019.github.io/%E9%AB%98%E6%80%A7%E8%83%BD%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
-<description>高性能服务器分析 声明：一点点自己的总结与感悟吧，如果有不对的地方，烦请指正
+    </item>
+    
+    <item>
+      <title>高性能服务器</title>
+      <link>https://tutuwu2019.github.io/%E9%AB%98%E6%80%A7%E8%83%BD%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
+      <pubDate>Wed, 08 May 2024 16:10:36 +0800</pubDate>
+      
+      <guid>https://tutuwu2019.github.io/%E9%AB%98%E6%80%A7%E8%83%BD%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
+      <description>高性能服务器分析 声明：一点点自己的总结与感悟吧，如果有不对的地方，烦请指正
 服务器最重要的是能够解决复杂的网络问题，大量并发请求，如经典的c10K ，当然后面这个并发问题延伸到c10M
 当然这个 c10k 已经被从硬件和软件两个方面解决了，硬件方面应该是在 摩尔定律上下功夫？ 软件方面就有很多方向了，然后接下来着重讲软件方面的解决方案
 OS &amp;amp; question 有人说，操作系统的底层设计让通信开销增大
@@ -115,41 +128,73 @@ OS &amp;amp; question 有人说，操作系统的底层设计让通信开销增�
 资源池（Resource Pool）
 资源池可以管理各种类型的资源，如线程、对象、连接等。资源池的目的是提高资源利用率，减少资源创建和销毁的开销。
 消息池（Message Pool）</description>
-</item>
-<item>
-<title>随写01</title>
-<link>https://tutuwu2019.github.io/%E9%9A%8F%E5%86%9901/</link>
-<pubDate>Wed, 08 May 2024 00:25:06 +0800</pubDate>
-<guid>https://tutuwu2019.github.io/%E9%9A%8F%E5%86%9901/</guid>
-<description>This is a page about »Unordered_write«.
+    </item>
+    
+    <item>
+      <title>随写01</title>
+      <link>https://tutuwu2019.github.io/%E9%9A%8F%E5%86%9901/</link>
+      <pubDate>Wed, 08 May 2024 00:25:06 +0800</pubDate>
+      
+      <guid>https://tutuwu2019.github.io/%E9%9A%8F%E5%86%9901/</guid>
+      <description>This is a page about »Unordered_write«.
 随写 有一种东西，它会在某个夏天的夜晚像风一样突然袭来，让你猝不及防，无法安宁，与你形影相随，挥之不去，我不知道那是什么，只能称它为爱情。
 励志 虫子虽然很弱小，但是重来没有被消灭过。</description>
-</item>
-<item>
-<title>md 语法参考</title>
-<link>https://tutuwu2019.github.io/md-%E8%AF%AD%E6%B3%95%E5%8F%82%E8%80%83/</link>
-<pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
-<guid>https://tutuwu2019.github.io/md-%E8%AF%AD%E6%B3%95%E5%8F%82%E8%80%83/</guid>
-<description>&lt;p&gt;&lt;a href="https://simplemde.com/markdown-guide"&gt;更多玩法参考(markdown-guide)&lt;/a&gt;&lt;/p&gt;
+    </item>
+    
+    <item>
+      <title>md 语法参考</title>
+      <link>https://tutuwu2019.github.io/md-%E8%AF%AD%E6%B3%95%E5%8F%82%E8%80%83/</link>
+      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://tutuwu2019.github.io/md-%E8%AF%AD%E6%B3%95%E5%8F%82%E8%80%83/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://simplemde.com/markdown-guide&#34;&gt;更多玩法参考(markdown-guide)&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;主要讲讲用 md 语法 去构建 hugo 元素，同时也可以像html 一样使用css 对其进行装饰(基于某个hugo 主题)&lt;/p&gt;
 &lt;/blockquote&gt;</description>
-</item>
-<item>
-<title>About</title>
-<link>https://tutuwu2019.github.io/about/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-<guid>https://tutuwu2019.github.io/about/</guid>
-<description>about 哈喽！你们好呀！
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://tutuwu2019.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tutuwu2019.github.io/about/</guid>
+      <description>about 哈喽！你们好呀！
 程序员一枚，欢迎大家找我玩耍～
 感觉事件过的过好快啊，研究了一天的hugo，总感觉前端这种逻辑很泛化，但是很好搭框架，没有c/c++这种语言逻辑性强</description>
-</item>
-<item>
-<title>Archive</title>
-<link>https://tutuwu2019.github.io/archive/archive/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-<guid>https://tutuwu2019.github.io/archive/archive/</guid>
-<description>归档 按日期归档 按照内容归档 技术 生活 随写 感悟 总结 </description>
-</item>
-</channel>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>https://tutuwu2019.github.io/archive/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tutuwu2019.github.io/archive/archive/</guid>
+      <description>归档 按日期归档 按照内容归档 技术 生活 随写 感悟 总结 </description>
+    </item>
+    
+    <item>
+      <title>计网</title>
+      <link>https://tutuwu2019.github.io/%E8%AE%A1%E7%BD%91/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tutuwu2019.github.io/%E8%AE%A1%E7%BD%91/</guid>
+      <description>This is a page about »计网«.
+计算机网络&amp;ndash;面试常见问题(自用) 网络结构 七层模型&amp;amp;协议 物理层，传输单位bit，IEE802.3、CLOCK、RJ45 数据链路层，传输单位帧，MAC、VLAN、PPP 网络层，传输单位包，IP、ARP、ICMP 传输层，传输单位报文，TCP、UDP 会话层，输出单位SPDU，RPC、NFS 建立、管理、终止会话 表示层，传输单位PPDU，JPEG、ASII 对数据翻译、加密、压缩 应用层，传输单位APDU，FTP、HTTP、DNS
+TCP/IP 4层模型 网络接口层，MAC、VLAN 网络层，IP、ARP、ICMP 传输层，TCP、UDP 应用层，HTTP、DNS、SMTP
+常见的网络协议 tcp、udp 特点： tcp 三次握手/四次挥手 常见 专有名词，TIME_WAIT(作用、弊端、如何优化) tcp 可靠传输 数据包校验 对失序数据包重排 丢弃重复数据 应答机制 超时重发 流量控制 拥塞控制（满开始、拥塞避免、快重传、快恢复） 流量控制 发送方控制发送速率
+滑动窗口 什么是滑动窗口 tcp 采用滑动窗口进行流量控制
+拥塞控制 什么事拥塞控制 tcp 拥塞控制
+tcp 粘包 发送方粘包
+发送方与接收方保持长连接（短连接不存在粘包问题） 过小数据合并发送，这个合并的过程再发送缓冲区进行，数据发送出来就已经是粘包状态
+接收方产生粘包
+read、recv 无法一次全部读出，然后下一个数据又到放入缓冲区末尾，等读取的数据就是一个粘包
+如何解决粘包问题
+分包机制，特殊字符控制、在包头首部添加数据包的长度
+注意使用netty框架就会有专门的编码器和解码器解决拆包和粘包问题
+基于tcp&amp;amp;udp 常见的协议 tcp
+http 80 https 443 ftp 21 telnet 23 smtp 25 udp</description>
+    </item>
+    
+  </channel>
 </rss>
