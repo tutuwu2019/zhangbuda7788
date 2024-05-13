@@ -7,7 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2024, zhangbdua.</copyright>
-    <lastBuildDate>Sun, 12 May 2024 14:32:26 +0800</lastBuildDate><atom:link href="https://tutuwu2019.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 May 2024 23:08:15 +0800</lastBuildDate><atom:link href="https://tutuwu2019.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>计网</title>
+      <link>https://tutuwu2019.github.io/%E8%AE%A1%E7%BD%91/</link>
+      <pubDate>Mon, 13 May 2024 23:08:15 +0800</pubDate>
+      
+      <guid>https://tutuwu2019.github.io/%E8%AE%A1%E7%BD%91/</guid>
+      <description>This is a page about »计网«.
+计算机网络&amp;ndash;面试常见问题(自用) 网络结构 七层模型&amp;amp;协议 物理层，传输单位bit，IEE802.3、CLOCK、RJ45 数据链路层，传输单位帧，MAC、VLAN、PPP 网络层，传输单位包，IP、ARP、ICMP 传输层，传输单位报文，TCP、UDP 会话层，输出单位SPDU，RPC、NFS 建立、管理、终止会话 表示层，传输单位PPDU，JPEG、ASII 对数据翻译、加密、压缩 应用层，传输单位APDU，FTP、HTTP、DNS
+TCP/IP 4层模型 网络接口层，MAC、VLAN 网络层，IP、ARP、ICMP 传输层，TCP、UDP 应用层，HTTP、DNS、SMTP
+常见的网络协议 tcp、udp 特点： tcp 三次握手/四次挥手 常见 专有名词，TIME_WAIT(作用、弊端、如何优化) tcp 可靠传输 数据包校验 对失序数据包重排 丢弃重复数据 应答机制 超时重发 流量控制 拥塞控制（满开始、拥塞避免、快重传、快恢复） 流量控制 发送方控制发送速率
+滑动窗口 什么是滑动窗口 tcp 采用滑动窗口进行流量控制
+拥塞控制 什么事拥塞控制 tcp 拥塞控制
+tcp 粘包 发送方粘包
+发送方与接收方保持长连接（短连接不存在粘包问题） 过小数据合并发送，这个合并的过程再发送缓冲区进行，数据发送出来就已经是粘包状态
+接收方产生粘包
+read、recv 无法一次全部读出，然后下一个数据又到放入缓冲区末尾，等读取的数据就是一个粘包
+如何解决粘包问题
+分包机制，特殊字符控制、在包头首部添加数据包的长度
+注意使用netty框架就会有专门的编码器和解码器解决拆包和粘包问题
+基于tcp&amp;amp;udp 常见的协议 tcp
+http 80 https 443 ftp 21 telnet 23 smtp 25 udp</description>
+    </item>
+    
     <item>
       <title>加密博客</title>
       <link>https://tutuwu2019.github.io/%E5%8A%A0%E5%AF%86%E5%8D%9A%E5%AE%A2/</link>
@@ -151,29 +174,6 @@ OS &amp;amp; question 有人说，操作系统的底层设计让通信开销增�
 &lt;blockquote&gt;
 &lt;p&gt;主要讲讲用 md 语法 去构建 hugo 元素，同时也可以像html 一样使用css 对其进行装饰(基于某个hugo 主题)&lt;/p&gt;
 &lt;/blockquote&gt;</description>
-    </item>
-    
-    <item>
-      <title>计网</title>
-      <link>https://tutuwu2019.github.io/%E8%AE%A1%E7%BD%91/</link>
-      <pubDate>Wed, 01 May 2024 02:59:12 +0800</pubDate>
-      
-      <guid>https://tutuwu2019.github.io/%E8%AE%A1%E7%BD%91/</guid>
-      <description>This is a page about »计网«.
-计算机网络&amp;ndash;面试常见问题(自用) 网络结构 七层模型&amp;amp;协议 物理层，传输单位bit，IEE802.3、CLOCK、RJ45 数据链路层，传输单位帧，MAC、VLAN、PPP 网络层，传输单位包，IP、ARP、ICMP 传输层，传输单位报文，TCP、UDP 会话层，输出单位SPDU，RPC、NFS 建立、管理、终止会话 表示层，传输单位PPDU，JPEG、ASII 对数据翻译、加密、压缩 应用层，传输单位APDU，FTP、HTTP、DNS
-TCP/IP 4层模型 网络接口层，MAC、VLAN 网络层，IP、ARP、ICMP 传输层，TCP、UDP 应用层，HTTP、DNS、SMTP
-常见的网络协议 tcp、udp 特点： tcp 三次握手/四次挥手 常见 专有名词，TIME_WAIT(作用、弊端、如何优化) tcp 可靠传输 数据包校验 对失序数据包重排 丢弃重复数据 应答机制 超时重发 流量控制 拥塞控制（满开始、拥塞避免、快重传、快恢复） 流量控制 发送方控制发送速率
-滑动窗口 什么是滑动窗口 tcp 采用滑动窗口进行流量控制
-拥塞控制 什么事拥塞控制 tcp 拥塞控制
-tcp 粘包 发送方粘包
-发送方与接收方保持长连接（短连接不存在粘包问题） 过小数据合并发送，这个合并的过程再发送缓冲区进行，数据发送出来就已经是粘包状态
-接收方产生粘包
-read、recv 无法一次全部读出，然后下一个数据又到放入缓冲区末尾，等读取的数据就是一个粘包
-如何解决粘包问题
-分包机制，特殊字符控制、在包头首部添加数据包的长度
-注意使用netty框架就会有专门的编码器和解码器解决拆包和粘包问题
-基于tcp&amp;amp;udp 常见的协议 tcp
-http 80 https 443 ftp 21 telnet 23 smtp 25 udp</description>
     </item>
     
     <item>
